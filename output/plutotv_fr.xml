@@ -1811,6 +1811,11 @@
         <desc>Un militaire de renom retourne sur les terres ou il a connu les plus grands succes de sa carriere. Alors qu'il renoue des liens avec un amour de jeunesse, il tombe contre toute attente sous le charme d'une militaire de l'Air Force qu'on lui a assigné.</desc>
         <icon src="https://images.pluto.tv/series/6062dc29a224c9001bb827e6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260322202402 +0000" stop="20260322220527 +0000">
+        <title>Playboy à saisir</title>
+        <desc>Tripp ne s'est jamais résolu à quitter le cocon familial. Il trouvait toujours une bonne excuse mais à présent, ses parents en ont assez. Ils engagent la charmante et talentueuse fille de ses rêves pour le pousser à quitter la maison.</desc>
+        <icon src="https://images.pluto.tv/series/661cc530b4334b0013179e95/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260322142536 +0000" stop="20260322161651 +0000">
         <title>We're No Angels</title>
         <desc>Ces deux nouveaux prêtres ont un côté marrant. En fait, ils sont franchement hilarants. Car Robert De Niro et Sean Penn ne sont en rien des curés.</desc>
@@ -1825,6 +1830,11 @@
         <title>Staying Alive</title>
         <desc>Cela fait cinq ans que le Staying Alive de Tony Manero fait toujours autant fureur. Il se approche maintenant nonchalamment de son plus grand défi : le produire sur la scène de Broadway.</desc>
         <icon src="https://images.pluto.tv/series/6020f01087be07001a2a06af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260322203620 +0000" stop="20260322222247 +0000">
+        <title>Cool World</title>
+        <desc>A la suite d'un accident de voiture dans lequel sa mère est tuée, Frank Harris est kidnappé par un personnage de bande dessinée.</desc>
+        <icon src="https://images.pluto.tv/series/66193a30acbc68001370344e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260322145138 +0000" stop="20260322164338 +0000">
         <title>A Good Man FR</title>
@@ -2600,6 +2610,11 @@
         <title>Anchorman 2: The Legend Continues</title>
         <desc>Vous en mouriez d'envie - Ron Burgundy est de retour, plus drôle que jamais, dans une version toute neuve, considérée trop scandaleuse pour sortir en salles ! Tout y passe dans cette comédie scandaleuse et totalement hilarante !</desc>
         <icon src="https://images.pluto.tv/series/6617d0d4a7a31d00171ec56a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b2d976a934282e92d71c" start="20260322200317 +0000" stop="20260322214817 +0000">
+        <title>Appelez-moi Dave</title>
+        <desc>Cherchant à sauver leur monde d’un destin tragique, un équipage d’extraterrestres minuscules qui ressemblent à des humains, arrive sur Terre dans le déguisement parfait : un vaisseau spatial en forme d’homme ordinaire.</desc>
+        <icon src="https://images.pluto.tv/series/606eda825426cf001a3a8b0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6823648580b2665220d9e69a" start="20260322155812 +0000" stop="20260322162812 +0000">
         <title>Ciné 666 by Pluto TV</title>
@@ -6601,6 +6616,11 @@ Florentin et Amélie surveillent les plantes exotiques invasives qui se dévelop
         <desc>L'explorateur Dirk Pitt se lance dans l'aventure de sa vie, à la recherche d'un cuirassé perdu pendant la guerre civile dans les déserts d'Afrique de l'Ouest, tout en aidant un médecin poursuivi par un dictateur impitoyable.</desc>
         <icon src="https://images.pluto.tv/series/691627e06e0067f40d9abd7b/tile_1763059681879.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260323001909 +0000" stop="20260323022228 +0000">
+        <title>Every Thing Will Be Fine</title>
+        <desc>Après une dispute, Tomas, écrivain en manque d’inspiration, cause la mort d’un enfant. Les années passent et sa vie s’effondre, jusqu’à ce qu’il trouve une rédemption inattendue lorsque cette tragédie devient la source de son succès.</desc>
+        <icon src="https://images.pluto.tv/series/69808688acf7dd3dc48fa520/tile_1770030729988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260322184620 +0000" stop="20260322203620 +0000">
         <title>Staying Alive</title>
         <desc>Cela fait cinq ans que le Staying Alive de Tony Manero fait toujours autant fureur. Il se approche maintenant nonchalamment de son plus grand défi : le produire sur la scène de Broadway.</desc>
@@ -10156,6 +10176,11 @@ Jean-Marc et Victor Gauthier nous guident dans leur champignonnière.</desc>
         <title>Darts</title>
         <desc>Series 13: Week 4, Finals Night.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1dee8cf62654291facf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671643fc5534bb00089187ad" start="20260323010100 +0000" stop="20260323012900 +0000">
+        <title>The Story of Dimitri Van den Bergh</title>
+        <desc>Henry Deacon and Glen Durrant discuss the story of Dimitri Van den Bergh and his rise in the world of darts.</desc>
+        <icon src="https://images.pluto.tv/series/67e2e1dfe8cf62654291fb31/tile_1757650286514.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67921b78b83355184c667770" start="20260322200000 +0000" stop="20260322203000 +0000">
         <title>UFC</title>
@@ -16125,6 +16150,11 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <title>American Beauty</title>
         <desc>L'existence de Lester est loin d'être parfaite. Il change quelques choses, devient plus libre, plus heureux. Mais Lester va bientôt apprendre que la liberté totale a un prix.</desc>
         <icon src="https://images.pluto.tv/series/6617cf694da6e300139c4702/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260323084219 +0000" stop="20260323104106 +0000">
+        <title>Affaires privées</title>
+        <desc>Un membre incorruptible qui vient d'être promu à la police des polices de Los Angeles découvre qu'un policier, en apparence intègre, est mêlé à de nombreux trafics...</desc>
+        <icon src="https://images.pluto.tv/series/661d43c6bf522d00134d0bcd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260323031926 +0000" stop="20260323050449 +0000">
         <title>Kung Fu Killer</title>
@@ -22118,6 +22148,11 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260323120500 +0000" stop="20260323142600 +0000">
+        <title>Y'a que la vérité qui compte: Episode 35</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6130d9c712c2b000070abb50" start="20260323073800 +0000" stop="20260323080300 +0000">
         <title>Yu-Gi-Oh! FR: La fusion des cinq grands-3ème partie</title>
         <desc>Yugi et Joey affrontent les Cinq Grands dans l'espoir de récupérer le corps de leur ami Tristan.</desc>
@@ -25956,6 +25991,11 @@ Cosmopolite et tolérante, c’est l’une des villes les plus fascinantes au mo
         <desc>En plein cœur de l'Europe de l'Est, un puissant cartel de la drogue organise des raids afin de déstabiliser le pouvoir en place. Seul moyen de mettre fin aux ambitions de cette dangereuse organisation : l'emploi de la force militaire.</desc>
         <icon src="https://images.pluto.tv/series/60e80739d96ddc0013149dd0/tile_1768502521430.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260323160605 +0000" stop="20260323180505 +0000">
+        <title>Four Brothers</title>
+        <desc>Quatre frères adoptés se retrouvent pour enterrer la femme qui les a élevés. Lors des funérailles, les frères découvrent que leur mère a été tuée et vont chercher à se venger.</desc>
+        <icon src="https://images.pluto.tv/series/64ccd3308f763a0013b3fd91/tile_1768501446568.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed9461b35690007a0bc3a" start="20260323112650 +0000" stop="20260323122149 +0000">
         <title>Most Haunted</title>
         <desc>Most Haunted visite The Tivoli Venue, Buckley, au Pays de Galles, un cinéma et une salle de musique de 1925 avec un incendie significatif et des perturbations paranormales liées à son histoire.</desc>
@@ -26998,6 +27038,11 @@ Cosmopolite et tolérante, c’est l’une des villes les plus fascinantes au mo
     </programme>
     <programme channel="612e044c970e6f00083bcf3b" start="20260323142600 +0000" stop="20260323164300 +0000">
         <title>Y'a que la vérité qui compte: Episode 28</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260323164300 +0000" stop="20260323185100 +0000">
+        <title>Y'a que la vérité qui compte: Episode 92</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1768194361175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
